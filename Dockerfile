@@ -27,5 +27,8 @@ COPY --from=publish /app/publish .
 CMD ASPNETCORE_URLS=http://*:$PORT dotnet sampleTodo.dll
 
 
-
+#step 1 : docker build -t  dockername/projectname
+#step 2 :  docker run -p 8081:80 dockername/projectname
+#
+#
 
