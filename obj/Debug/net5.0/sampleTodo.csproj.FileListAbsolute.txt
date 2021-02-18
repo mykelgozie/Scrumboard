@@ -1,0 +1,206 @@
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\appsettings.json
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\sampleTodo.exe
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\sampleTodo.deps.json
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\sampleTodo.runtimeconfig.json
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\sampleTodo.runtimeconfig.dev.json
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\ref\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\sampleTodo.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Modelslibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\serviceslibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\serviceslibrary.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Modelslibrary.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.csprojAssemblyReference.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.AssemblyInfoInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.AssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.csproj.CoreCompileInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\staticwebassets\sampleTodo.StaticWebAssets.Manifest.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\staticwebassets\sampleTodo.StaticWebAssets.xml
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\scopedcss\bundle\sampleTodo.styles.css
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.RazorTargetAssemblyInfo.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.csproj.CopyComplete
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\ref\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\obj\Debug\net5.0\sampleTodo.genruntimeconfig.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Project\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\appsettings.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\sampleTodo.exe
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\sampleTodo.deps.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\sampleTodo.runtimeconfig.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\sampleTodo.runtimeconfig.dev.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\ref\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\sampleTodo.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Modelslibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\serviceslibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\serviceslibrary.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Modelslibrary.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.csprojAssemblyReference.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.AssemblyInfoInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.AssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.csproj.CoreCompileInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\staticwebassets\sampleTodo.StaticWebAssets.Manifest.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\staticwebassets\sampleTodo.StaticWebAssets.xml
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\scopedcss\bundle\sampleTodo.styles.css
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.RazorTargetAssemblyInfo.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.csproj.CopyComplete
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\ref\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\obj\Debug\net5.0\sampleTodo.genruntimeconfig.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Dtos.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Dtos.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task\sampleTodo\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\appsettings.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\sampleTodo.exe
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\sampleTodo.deps.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\sampleTodo.runtimeconfig.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\sampleTodo.runtimeconfig.dev.json
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\ref\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\sampleTodo.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.csprojAssemblyReference.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.AssemblyInfoInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.AssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.csproj.CoreCompileInputs.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\staticwebassets\sampleTodo.StaticWebAssets.Manifest.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\staticwebassets\sampleTodo.StaticWebAssets.xml
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\scopedcss\bundle\sampleTodo.styles.css
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.RazorTargetAssemblyInfo.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.csproj.CopyComplete
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\ref\sampleTodo.dll
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.pdb
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\obj\Debug\net5.0\sampleTodo.genruntimeconfig.cache
+C:\Users\MICHAEL NWOSU C\source\repos\Task - Copy (2)\sampleTodo\bin\Debug\net5.0\App.db
