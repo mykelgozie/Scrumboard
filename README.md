@@ -1,2 +1,2 @@
 # Scrumboard
-## This  bankend is an API for scrumboard using C# and docker
+## This  backend is a Restful API for scrumboard using C# and docker in .Net 5
